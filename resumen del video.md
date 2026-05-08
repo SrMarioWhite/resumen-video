@@ -1,6 +1,4 @@
 # resumen-video
-
-
 ## 1. fundamentos y lenguajes de programacion
 
 El primer paso es dominar un lenguaje de programacion. El video dice que no existe un "mejor" lenguaje unico, sino opciones que se adaptan a diferentes necesidades:
